@@ -1,2 +1,2 @@
-# hectober_fest_2020
-hectober fest 2020  , the best place for beginners
+# hacktober_fest_2020
+hacktober fest 2020  , the best place for beginners
